@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">RiskAssessment</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="title_activity_list">Risk Event</string>
+    <string name="title_activity_insert_event">Ingresar evento</string>
+    <string name="date_event">Fecha del registro</string>
+    <string name="description">Descripción</string>
+    <string name="alert_level">Nivel de alerta</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="accept">Aceptar</string>
+    <string name="error_level_alert_empty">Nivel de alerta no seleccionado</string>
+    <string name="error_description_empty">Se debe ingresar una descripción</string>
+    <string name="error_date_event_empty">Se debe ingresar una fecha de alerta</string>
+    <string name="message_delete_record">Se eliminó el registro</string>
+    <string name="message_create_record">Se creó la alerta</string>
+    <string name="tv_level">Nivel:</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_detail">Detalle de la alerta</string>
+    <string name="app_install_name">RiskAlert</string>
+    <string name="msj_location">Ubicación guardada</string>
+    <string name="msj_permisos">La aplicacion requiere permisos</string>
+    <string name="title_toolbar_list">Lista de riesgos</string>
+</resources>
